@@ -1,6 +1,6 @@
 +++
 date = "2017-01-22T10:11:43-07:00"
-draft = true
+draft = false
 title = "Home Automation Begins"
 
 +++
