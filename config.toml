@@ -1,3 +1,4 @@
-baseurl = "http://blogs.ingenthron.org/matt"
+baseurl = "http://blogs.ingenthron.org/matt/"
 languageCode = "en-us"
 title = "Matt Ingenthron's Blog"
+Params.ga = "UA-98346972-1"
