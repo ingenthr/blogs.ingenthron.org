@@ -1,28 +1,52 @@
 ---
 title: "It's not COVID-19"
-date: 2020-07-20T14:44:07-07:00
+date: 2020-07-29T14:44:07-07:00
 draft: true
 ---
 
-Meta-note: I'm writing this mostly for posterity.  At the moment, I
-think I'll only post it once I have a positive test.  I do not have
-one, more on that in a moment.
+Meta-note: I'm writing this mostly for posterity.  Sort of a memo to
+myself, but also useful to be able to explain to others who may ask.
 
-TL;DR: 
+## TL;DR: 
 
 * As I mentioned to some people, my doctor diagnosed me with COVID-19,
   but that initial diagnosis didn't pan out with further testing (both
-  RT-PCR and Serological).  Not sure what I have. yet.
+  RT-PCR and Serological).  Not sure what I had or have, but it's
+  better and that's good.
 * If you think you may have it, take your temperature. I should have
   done this sooner.  Oral low grade
   is rougly 99F up 100.9.  CDC calls it a fever at 100.4F.
 * Testing, in my experience, was somewhat easy to find but 
-  was possibly mishandled (my doctor thinks so), making it pretty much
-  useless.
+  was possibly mishandled (my doctor thinks so).  A second test (which
+  has its own story) and the serological test both say I didn't have it.
 * If you're going to get a nasopharyngeal test, [read the CDC info on
   collecting it](https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html).
   The field instruction given is short and doesn't always match.
 
+## Summary
+
+I was sick for nearly 3 weeks with a low grade fever, some GI issues,
+muscle aches, headache.  Initially I didn't think it was COVID-19, but
+when I didn't get better after a week I checked with the doctor and he
+thought it was, but sent me for testing.
+
+Ultimately, tests show that I have not had COVID-19.
+
+I'm not sure how to feel about that.  I feel slightly odd because I
+did tell others that I probably had it, because that's what the doctor
+told me.  And to be fair to both of us, the symptoms kind of align and
+I've never quite been sick like this before.  
+
+I'm not one to seek attention for this sort of thing.  At least, I
+don't think I am.  So it feels kind of odd to have gotten attention
+but now I have to go back and tell others that it wasn't that
+disease.  It may be another one that is either better or worse.
+
+At the end of the day though, I have to follow the data.  It says I
+still have a chance to get COVID-19 (or, preferably, a vaccine).  And
+I got to feel like crap from something not yet determined.
+
+## The Full Story
 
 What I am calling day 0, July 4, 2020, I had some lower GI issues,
 (diarrhea).  Since I'd eaten some questionable food that day, but felt
@@ -53,7 +77,7 @@ since I had not developed any respiratory symptoms, I did not think it
 was COVID-19.  So, I moved back into our regular bedroom.
 
 In retrospect, something odd happened between day 3 and 4.  I woke up
-at 3am with a horrible headache.  I got up, drank a bunch of water,
+at 3am with a horrible migraine-like headache.  I got up, drank a bunch of water,
 and took a Tylenol, eventually getting back to sleep.  The reason I
 mention this is I felt pretty good on day 4's morning.  In retrospect,
 I think it was the Tylenol putting the fever I had (but wasn't
@@ -68,6 +92,9 @@ spot pretty far from everyone, Josephine took her nap at the beach and
 I even went for a run and got a sunburn on my back-- a dumb move to
 not have somone apply sunscreen there for me.
 
+Day 4, didn't feel great.  Slept not well, but that was partially the
+sunburn.  Still some GI distress..
+
 On both day 5 and 6, I was trying to get up early to take care of
 Josephine to give Michelle a break.  Both of these days I felt odd
 first thing in the morning.  In particular what I noticed was getting
@@ -76,7 +103,10 @@ at the thermostat going down to get some milk for Josephine.  On day
 6, I ended up going back to bed because I just didn't feel well (and
 Michelle offered).  I did a couple of errands that day.  Some shopping
 for bike tubes (I'd hoped to take Josephine on some rides during
-vacation)  and things we needed.  The evening of day 6, a Friday night, just wasn't
+vacation)  and things we needed.  Dropped off the car which started
+having some clutch noise.  That night, had some chills when gettign up
+in the night to use the bathroom adn first thing the next morning.  
+The evening of day 6, a Friday night, just wasn't
 any better.  We tried to sit out in the backyard, something that would
 normally feel really comfortable to me this time of year, but I just
 felt odd.  For example, one really odd symptom was that the back of my
@@ -86,7 +116,10 @@ of the eye sockets.
 
 I tried to rest up on day 7, since one day this weekend we were to
 help Michelle's cousin  put in some curtains.  We did that on day 8.
-I still didn't feel "right".  Later that evening while we were home
+I still didn't feel "right".  I started the day with chills again.  I
+did treat my symptoms with Advil this day (both Advil and Tylenol work
+for me, I tend to Tylenol to save my kidneys) I drank a lot of iced
+tea that day. Later that evening while we were home
 and talking about how I still didn't feel well, I finally for the
 first time took my temperature.  It registered as a 99.7F if I recall
 correctly.  I was immediately a bit disappointed in myself because
@@ -96,6 +129,10 @@ bit and decided that it would be best that I isolate at my mother's
 house, since Michelle is at high risk and it's really hard to explain
 to a 2yo why you can't play with them.  And set an appointment with
 the doctor.
+
+I started day 8 with chills again.  Again, an odd sort of situation in
+that it was pretty warm, 78F in the house.  I checked that morning and
+had another 99.7F.
 
 On the afternoon of day 8 (a Monday), where I worked remotely from
 Mom's house, in the afternoon as in most afternoons previously I began
@@ -108,7 +145,7 @@ sure if a nasopharyngeal test would work.
 
 Day 9 I felt a little worse than the day previous.  I still had chills
 and my temps were in the high 99s, eventually going to 100.6F in the
-evening.  I spoke with the doctor this day.
+evening.  I still had some GI issues, loose BMs.  I spoke with the doctor this day.
 
 The doctor said the symptoms I had sounded a lot like the COVID-19
 cases he had seen.  He said many started with GI.  He asked some
@@ -279,11 +316,18 @@ So much for going home!
 
 Day 15 was more of settling into this new fever-all-day routine.  I
 started the day at 99.4.  I did not do much other than rest this day.
+The GI issues returned.  The back of my eyeballs hurt again.  And one
+other odd symptom, for whatever reason my left calf muscle was in a
+lot of pain.  I didn't injure it in any way that I know of.  The
+problem just presented itself that morning and I was limping around
+for half the day.  Just as mysteriously as it appearted, it later
+wdisappeared after sitting outside for a while.  
+
 Slightly concerning, around 8pm, I checked my o2 and it was 89.  Did
 this mean the respiratory symptoms were catching up with me?  That's
 where things get dangerous.   I did have some other oddities like my
 voice was not working.  It was almost like I was slightly hoarse after
-yelling.  
+yelling.  But, I also didn't trust this pulse oximiter.
 
 After a few deep breaths, it was was back up to 97. 
 
@@ -357,50 +401,26 @@ instance, I wasn't able to sleep, but I was just so exhausted.
 
 Day 22, first day back at normal-ish home/work.  Mostly a normal day,
 except I feel drained.  I didn't sleep super well, waking up at 3am,
-4am, 5am, 5:15am, etc.  This day I got up early to go to Q
+4am, 5am, 5:15am, etc.  This day I got up early to go to Quest for the
+blood draw and other specimens, a fasting lipid panel, etc.  I was
+just tired this day.  Needed to rest a couple of times over the course
+of the day.
 
+Day 23.  A more normal day, despite starting at 7:15a.  I felt better
+this day.  The two mile walk with the family in the evening didn't
+wear me out as much as the shorter walk did on Monday, so that's
+good.  Body temperature is normal, in the 97s.  
 
+I received my Quest results this day, but hadn't talked to the doctor
+yet.  The result show…  no COVID-19 antibodies.  I won't explain all
+of the other numbers, but some of them are concerning.  And, nothing
+that really pinpoints what had me in a high fever.  
 
+Day 24, still normal body temperatures.  The only odd thing this day
+is that I did wake up once overnight very sweaty.  It was warm, but
+not that warm.   Our windows were open.  
 
-
----------
-
-Day 3
-Wed 8 July
-- Woke up at 3am with migraine like headache.  Drank a bunch of water and took acetaminophen, back to sleep.
-- Felt fairly okay on July 8.   Took the family to the beach.  Got a sunburn on my back.  Went for a run on the beach.
-
-Thu 9 July
-- Didn't feel great again.  Slept okay, considering sunburn
-- Went shopping
-- Some GI distress
-
-Fri 10 July
-- Felt not great.
-- Went shopping for tire tubes (hoping to ride the bike in the weekend)
-- Dropped off broken car
-
-Sat 11 July
-- Felt chills in the morning when getting up, or getting up in the night
-
-Sun 12 July
-- Felt chills in the morning.  Treated with Advil.  Drank lots of fluids and iced tea.
-- Went to Lisa and Mario's to put in curtains
-
-Mon 13 July
-- Felt chills in the morning.  Looked at the temp, it was 78F.
-- Fever at 99.7
-
-Tue 14 July
-- Still chills in morning
-- Loose stool
-- 99.8 fever
-
-Day 15 - 
-Some GI issues returned.  It was pretty bad overnight, and I recorded
-my highest fever at 101.8 overnight.  I know that could be worse, but I had
-significant trouble sleeping.  As usual, I was hoping I'd feel good in
-the morning and be able to return to work, but could not.  Had a 99.4
-at 7:30a and a 99:9 at 11a.  Back of eyeballs hurt again.  Odd
-symptom, left calf hurt a lot.  It hurt to walk.  But after sitting outside for a while,
-that pain went away.
+I'll close this entry for now.  That's enough of this epic journey
+thus far.  Next steps, more doctor consultation, but hopefully no more
+infection and fever in the near term.  And hopefully, COVID-19
+antibodies only from a vaccine.
